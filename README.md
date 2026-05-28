@@ -27,6 +27,6 @@
 以 root 身份执行：
 
 ```bash
-wget -O vps-init.sh https://raw.githubusercontent.com/<your-username>/vps-hardening-toolkit/main/vps-init.sh
-chmod +x vps-init.sh
-sudo bash vps-init.sh
+wget -O vps.sh https://github.com/allury/VPS/releases/download/1.0/Vps.sh
+chmod +x vps.sh
+sudo bash vps.sh
